@@ -5,7 +5,7 @@ This component provide a feature of drag and drop options to re-order. Which can
 
 ## Demo
 
-[Try it](https://jitendra-pathak.github.io/react-drag-drop-demo/)
+[Try it!](https://jitendra-pathak.github.io/react-drag-drop-demo/)
 
 
 ## Browser Support
@@ -63,7 +63,7 @@ import ListDragDrop from 'listdragdrop';
   />
 ```
 
-### Add Custom Templates
+### Add Custom Template
 
 ```js
   const getDragRowAction = (data) => {
